@@ -1,6 +1,6 @@
 # Forecast-Driven-Operational-Planning-in-a-Restaurant_Diploma_2026
 
-All of the code for the thesis work is concentrated in one notebook — "Full Pipeline – Full Code Base". Two data files granted from a restaurant are also attached: Main Dataset – raw restaurant data (the main analytical dataset covering October 2023 – October 2025) and Restaurant Test Out Of Sample.xlsx (the out-of-sample evaluation set covering December 2025 – February 2026).
+All of the code for the thesis work is concentrated in one notebook — "Full Pipeline – Full Code Base". Two data files provided by the restaurant are also attached: Main Dataset – raw restaurant data (October 2023 – October 2025) and Restaurant Test Out Of Sample.xlsx (December 2025 – February 2026).
 
 ## Notebook Structure
  
